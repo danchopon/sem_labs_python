@@ -1,0 +1,1 @@
+Add this libs folder inside of /usr/local/lib/python2.7/site-packages and delete this folder inside of ../lab3/
